@@ -1,9 +1,16 @@
 {
-"HD1":"http://iptv-janberyan.com:25461/00215844871/252588888110/3220",
-"HD2":"https://video.xx.fbcdn.net/hvideo-ash1-frc/v/rkfhJukVNO81f2cIfw_n-/live-dash/dash-abr4/164684697889872_0.mpd?lvp=1&_nc_rl=AfBeB_Resw9qsLUc&oh=1dbb499587bc2f7575ee225de3aa0854&oe=5CDA8797",
-"HD3":"https://video.xx.fbcdn.net/hvideo-atn2-frc/v/rW-2LDfqXELyFW4uPPYKc/live-dash/dash-abr4/164683717889970_0.mpd?lvp=1&_nc_rl=AfCuR8rvnvSUZnZm&oh=d5dc73e3c53d01f5aaea1b7cb6ff8c65&oe=5CDA480D",
-"HD4":"https://video-hbe1-1.xx.fbcdn.net/hvideo-cln1-frc/v/r0EzoVwJBfxd4LHDYeEas/live-dash/dash-abr4/164470307911311_0.mpd?lvp=1&_nc_rl=AfCia7L7co6Wo5Mh&oh=f80b36622c4e98df48862fc815f2df75&oe=5CDA91FA",
-"HD5":"https://video-hbe1-1.xx.fbcdn.net/hvideo-cln1-atn/v/rCaCvfhfPkuoTSxI_6gi5/live-dash/dash-abr4/165393174485691_0.mpd?lvp=1&_nc_rl=AfDFCb4UsQCvNiuh&oh=43521e678a903bb80363cb064e559f07&oe=5CDA17AC",
-"HD6":"https://video-hbe1-1.xx.fbcdn.net/hvideo-lla1-frc/v/r0EzoVwJBfxd4LHDYeEas/live-dash/dash-abr4/164470307911311_0.mpd?lvp=1&_nc_rl=AfCZglLCX1OdrLnJ&oh=a3038b4bf9e9556d478a7eee384139c1&oe=5CD9407A"
-}
+"HD1":"http://l.land02.live:8080/live/hossein1/Srhb613aeu/197968.m3u8",
+"HD2":"http://l.land02.live:8080/live/hossein1/Srhb613aeu/197980.m3u8",
+"HD3":"http://l.land02.live:8080/live/hossein1/Srhb613aeu/197982.m3u8",
+"HD4":"http://l.land02.live:8080/live/hossein1/Srhb613aeu/197984.m3u8",
+"HD5":"http://l.land02.live:8080/live/hossein1/Srhb613aeu/198060.m3u8",
+"HD6":"http://l.land02.live:8080/live/hossein1/Srhb613aeu/197987.m3u8",
+"HD7":"http://l.land02.live:8080/live/hossein1/Srhb613aeu/197989.m3u8",
+"HD8":"http://l.land02.live:8080/live/hossein1/Srhb613aeu/197991.m3u8",
+"HD9":"http://l.land02.live:8080/live/hossein1/Srhb613aeu/198062.m3u8",
+"HD10":"http://l.land02.live:8080/live/hossein1/Srhb613aeu/197970.m3u8",
+"HD11":"http://l.land02.live:8080/live/hossein1/Srhb613aeu/197971.m3u8",
+"HD12":"http://l.land02.live:8080/live/hossein1/Srhb613aeu/197974.m3u8",
+"HD13":"http://l.land02.live:8080/live/hossein1/Srhb613aeu/197975.m3u8"
 
+}
